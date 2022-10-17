@@ -1,11 +1,22 @@
 {
-  "posts": [
+  "games": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "game1"
+    },
+    {
+      "id": 2,
+      "title": "game2"
+    },
+    {
+      "id": 3,
+      "title": "game3"
+    },
+    {
+      "id": 4,
+      "title": "game4"
     }
+
   ],
-  "profile": {
-    "name": "typicode"
-  }
+ 
 }
