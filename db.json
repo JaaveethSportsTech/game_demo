@@ -2,19 +2,27 @@
   "games": [
     {
       "id": 1,
-      "title": "game1"
+      "title": "game1",
+      "image": "",
+      "url": ""
     },
     {
       "id": 2,
-      "title": "game2"
+      "title": "game2",
+      "image": "",
+      "url": ""
     },
     {
       "id": 3,
-      "title": "game3"
+      "title": "game3",
+      "image": "",
+      "url": ""
     },
     {
       "id": 4,
-      "title": "game4"
+      "title": "game4",
+      "image": "",
+      "url": ""
     }
 
   ]
