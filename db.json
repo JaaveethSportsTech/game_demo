@@ -3,25 +3,25 @@
     {
       "id": 1,
       "title": "game1",
-      "image": "",
+      "image": "https://github.com/jaaveethH/game_demo/blob/main/699505.jpg",
       "url": "https://zippy-bubblegum-8a1990.netlify.app/"
     },
     {
       "id": 2,
       "title": "game2",
-      "image": "",
+      "image": "https://github.com/jaaveethH/game_demo/blob/main/699509.jpg",
       "url": "https://zippy-bubblegum-8a1990.netlify.app/"
     },
     {
       "id": 3,
       "title": "game3",
-      "image": "",
+      "image": "https://github.com/jaaveethH/game_demo/blob/main/699510.jpg",
       "url": "https://zippy-bubblegum-8a1990.netlify.app/"
     },
     {
       "id": 4,
       "title": "game4",
-      "image": "",
+      "image": "https://github.com/jaaveethH/game_demo/blob/main/699508.jpg",
       "url": "https://zippy-bubblegum-8a1990.netlify.app/"
     }
 
